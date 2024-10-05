@@ -10,4 +10,4 @@ Untuk mengakses aplikasi, gunakan kredensial berikut:
 ## Instalasi
 1. Clone repositori ini ke mesin lokal Anda.
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/neeyooo/PemroMobile.git
